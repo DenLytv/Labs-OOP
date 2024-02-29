@@ -1,7 +1,7 @@
 # Labs-OOP
 Welcome to the repository, which contains laboratory works on the subject of OOP from semester 2 cource 1.
 ## Lab 2
-  Реалізувати вказаний клас. Клас повинен мати наступні методи:</br>
+  Реалізувати вказаний клас. Клас повинен мати наступні методи:
 - конструктор за замовчуванням;
 - конструктор з параметрами;
 - функції для зміни кожного з полів класу;
